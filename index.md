@@ -32,5 +32,5 @@ I help people convert their passion into great software solutions.
 
 		
 # Contact
-- https://twitter.com/TomWillis608
-- https://www.linkedin.com/in/tomaswillis/
+- <https://twitter.com/TomWillis608>
+- <https://www.linkedin.com/in/tomaswillis/>
