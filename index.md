@@ -5,7 +5,7 @@
 ## Agile Software Engineering Leader ♦  VP of ENGINEERING ♦ Creating Great Teams ♦ Product Management ♦ Innovator
 I help people convert their passion into great software solutions.
 
-###Timeline
+### Timeline
 - 2019 2 patents filed
 - 2019 2 patents issued
 - 2018 2 patents issued
