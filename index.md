@@ -7,9 +7,9 @@ I help people convert their passion into great software solutions.
 
 ### Timeline
 - 2019 2 patents filed
-- 2019 2 patents issued
-- 2018 2 patents issued
+- 2019 3 patents issued
 - 2018 1 product launched
+- 2018 2 patents issued
 - 2017 3 patents issued
 - 2017 VP of Engineering, Moxe Health.
 - 2016 Senior Manager of Software Engineering, The Weather Company/IBM.
