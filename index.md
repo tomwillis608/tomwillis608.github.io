@@ -30,6 +30,22 @@ I help people convert their passion into great software solutions.
 - What did Tom's overseas colleague say about him?
 > "You are the best software R&D manager I have ever met. Your instruction on patent, best practices, design and communication are very practical and constructive." *Manager, Dell, Zhuhai, China*
 
+## The Journey
+<img src="{{site.url}}/images/raft_cc_co.png" style="display: block; margin: auto;" />
+
+I help people convert their passion into great software solutions. 
+
+As a senior software engineering and product leader, I offer a proven opportunity to grow and transform your software organization 
+with more agile, innovative, and productive teams. I bring an established record of delivery of high-quality enterprise-scale 
+commercial software aligned to customer needs. I am an inventor, innovator and IP expert. I am known as a business collaborator 
+supplying product management, technical insight and leadership.
+
+Leading a team through the transition from traditional software development practices to modern, automated, agile devops 
+best practices can be a lot like a whitewater rafting adventure.  If everyone is paddling on their own, you don’t get anywhere 
+but up against the rocks.  But when the team learns to trust each other, to observe and act in concert, then you make headway.  
+The river is different on every ride. You don’t know what’s around the corner, but when the team gets into the rhythm of the s
+crum or the Kanban, then they are prepared to adjust to changing conditions and improving understanding of the situation. 
+
 		
 # Contact
 - <https://twitter.com/TomWillis608>
