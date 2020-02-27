@@ -44,8 +44,8 @@ supplying product management, technical insight and leadership.
 Leading a team through the transition from traditional software development practices to modern, automated, agile devops 
 best practices can be a lot like a whitewater rafting adventure.  If everyone is paddling on their own, you don’t get anywhere 
 but up against the rocks.  But when the team learns to trust each other, to observe and act in concert, then you make headway.  
-The river is different on every ride. You don’t know what’s around the corner, but when the team gets into the rhythm of the s
-crum or the Kanban, then they are prepared to adjust to changing conditions and improving understanding of the situation. 
+
+The river is different on every ride. You don’t know what’s around the corner, but when the team gets into the rhythm of the scrum or the Kanban flow, then they are prepared to adjust to changing conditions and improving understanding of the situation. 
 
 		
 # Contact
