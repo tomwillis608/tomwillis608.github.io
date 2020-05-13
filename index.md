@@ -6,7 +6,8 @@
 I help people convert their passion into great software solutions.
 
 ### Timeline
-- 2020 1 patent issued
+- 2020 Product Owner, Flexion, Inc.
+- 2020 2 patents issued
 - 2019 2 patents filed
 - 2019 3 patents issued
 - 2018 1 product launched
