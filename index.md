@@ -1,5 +1,5 @@
 ## Welcome to Tom Willis's personal website 
-## VP of Software Engineering, Patent Consultant, Product Manager, Agile Coach, Intrapreneur, Entrepreneur
+## VP of Software Engineering, Patent Consultant, Product Manager, Agile Coach, Intrapreneur, Entrepreneur, Product Owner
 
 # Home
 ## Agile Software Engineering Leader ♦  VP of ENGINEERING ♦ Creating Great Teams ♦ Product Management ♦ Innovator
